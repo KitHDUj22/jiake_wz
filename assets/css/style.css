@@ -59,10 +59,12 @@ b,strong {
     font-weight: bolder
 }
 
-.tip{ 
+.tip{
     color: #000;
     background: #00ffa3;
     padding: 12px;
+    width: 91%;
+    border-radius: 10px;
 }
 .tip span{     background: #f00;
     color: #fff;
